@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">storyvan</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="storyapp">StoryApp</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="yayasan">Yayasan</string>
+    <string name="daerah">Daerah/Kota</string>
+    <string name="notelp">Nomor Telpon</string>
+    <string name="logout">logout</string>
+    <string name="agama">Agama</string>
+    <string name="select_kategori">Select Kategori</string>
+    <string name="dummydonasi1">Bantuan Pembangunan Masjid</string>
+    <string name="dummyyayasan1">Masjid Al-Ikhlas</string>
+</resources>
